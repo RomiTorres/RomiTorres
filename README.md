@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hola, mi nombre es Romina Torres👋
 
-<!--
-**RomiTorres/RomiTorres** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### He realizado el "Master en Programación fullstack Javasceript Angular Node" en Udemy
 
-Here are some ideas to get you started:
+### Actualmente me encuentro realizando el Bootcamp de Full-stack Developer en [4Geek](4geeks.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+En este camino he aprendido las siguientes tecnologías:
+- HTML
+- CSS
+- BOOTSTRAP
+- JAVASCRIPT
+- NODE JS
+- ANGULAR
+- GIT
+- GITHUB
+- LINUX
+
