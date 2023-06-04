@@ -2,7 +2,7 @@
 
 ### He realizado el "Master en Programación fullstack Javasceript Angular Node" en Udemy
 
-### Actualmente me encuentro realizando el Bootcamp de Full-stack Developer en [4Geeks](4geeks.com)
+### Actualmente me encuentro realizando el Bootcamp de Full-stack Developer en [4Geeks](https://4geeks.com)
 
 En este camino he aprendido las siguientes tecnologías:
 - HTML 
@@ -15,4 +15,4 @@ En este camino he aprendido las siguientes tecnologías:
 - GITHUB
 - LINUX
 
-
+Soy una persona curiosa y en constante investigación y aprendizaje. Ésto es el prinicipio de mucho más!!!!
