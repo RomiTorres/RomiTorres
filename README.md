@@ -11,6 +11,7 @@ En este camino he aprendido las siguientes tecnologías:
 - CSS 
 - BOOTSTRAP
 - JAVASCRIPT
+- TYPESCRIPT
 - NODE JS
 - ANGULAR
 - GIT
